@@ -3,11 +3,13 @@
   "binance": {
     "apikey": "your api key",
     "secret": "your api secret",
+    'timeout':20000,
     "testorders": true
   },
   "bitmex": {
     "apikey": "your api key",
     "secret": "your api secret",
+    'timeout':20000,
     "testorders": true
   }
 }
