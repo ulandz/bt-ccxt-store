@@ -4,7 +4,9 @@
     "apikey": "your api key",
     "secret": "your api secret",
     'timeout':20000,
-    "testorders": true
+    "testorders": true ,
+    'options': {
+        'defaultType': 'future',
   },
   "bitmex": {
     "apikey": "your api key",
